@@ -15,4 +15,4 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/leetcode-solutions.git
+   git clone https://github.com/Sol-momma/Leetcode.git
